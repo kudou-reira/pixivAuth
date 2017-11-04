@@ -1,0 +1,16 @@
+{
+  "name": "pixivtest2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "concurrently": "^3.5.0",
+    "qs": "^6.5.1"
+  }
+}
